@@ -7,8 +7,12 @@
 | 值 | 找法 |
 |---|------|
 | **editor** | 在输入框元素上右键 → Copy → Copy selector |
+#m365-chat-input-shared-wrapper > div.fai-ChatInput__contentBefore.rlrwh3h.fai-ExpandableChatInput__contentBefore.___1bhdeez.f122n59
 | **sendBtn** | 在发送按钮上右键 → Copy → Copy selector |
+#m365-chat-input-shared-wrapper > span.fai-ChatInput__actions.rl8pucu.fai-ExpandableChatInput__actions.___n66fgo0.f22iagw.f122n59.faqewft.fw5db7e.f1mk8lai.fxe27oy.f9b8bpc > button
 | **responseSelector** | 在 AI 回复内容容器上找稳定的选择器 |
+#copilot-message-rfc > div
+#copilot-message-rm6 > div
 
 ### 2. 测试 fillMethod
 
