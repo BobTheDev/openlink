@@ -34,3 +34,4 @@ Thumbs.db
 extension/*.crx
 extension/*.pem
 extension/dist/
+openlink_windows_amd64.zip
